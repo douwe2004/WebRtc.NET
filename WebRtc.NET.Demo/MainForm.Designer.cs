@@ -114,6 +114,9 @@
             this.pictureBoxLocal.Name = "pictureBoxLocal";
             this.pictureBoxLocal.Size = new System.Drawing.Size(529, 310);
             this.pictureBoxLocal.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            ,gtldkrjkgghtkjrjtjtutjrhrrtththgtjtkhgiggttgkkgjttjtm
+                gjnbjgjjgmnjbc,l,
+            djed
             this.pictureBoxLocal.TabIndex = 3;
             this.pictureBoxLocal.TabStop = false;
             // 
