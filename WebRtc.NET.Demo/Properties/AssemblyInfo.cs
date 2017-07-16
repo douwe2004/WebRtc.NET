@@ -1,11 +1,21 @@
 ﻿using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
+kfrhggjhgggghhhjh,hjjnjhy,
+,hhcmhlgjkrglkljfrjuernfffngn fnngmmgn
+lkfgghkhkjghhennfbrk
+khjlhkghkhkjkmkhhnhmm,hmhhjn,kdvjfhgdkfhdfhbkfjndhhjjg
+gktkjkrjijjngffjfjgjkjgjjgjjjruirrtiggtkkehfhfuffggj
+fkfgitkjfjffjfjffgburfufkgkkkllffgklgk
+,lkhtmtuthtthyjjkjhbhddhghbfhffurrhrifjjfffusjhusgfxch
+tlrjhitggjgtjtgh
 
-// General Information about an assembly is controlled through the following 
+// General Information about an assembly is controlled through the following gkhhnbgh
+klhjhhjhhjtgjrthggtthhgtktj
 // set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-[assembly: AssemblyTitle("WebRtc.NET.Demo")]
+// associated with an assembly.kjg
+glkhkgtjtj
+[assembly: AssemblyTitle("WebRtc.NET.Demo")]mgntnmntnnbttgntrnnt
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
